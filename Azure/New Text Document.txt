@@ -4,4 +4,7 @@ stage("git clone")
 {
 provide url
 }
-stage(
+stage("git clone")
+{
+provide url
+}
